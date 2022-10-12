@@ -12,9 +12,9 @@ public class Testes {
 
 		
 		Funcionario func = new Funcionario(200);
-		func.setNome("Jo�o");
-		System.out.println("Funcion�rio: " + func.getNome());
-		System.out.println("Sal�rio: " + func.getSalario());
+		func.setNome("João");
+		System.out.println("Funcionário: " + func.getNome());
+		System.out.println("Salário: " + func.getSalario());
 		
 		
 	}
