@@ -10,13 +10,13 @@ public class Teste {
 		if(contaA.Sacar(10)) {
 			System.out.println("Saque Realizade com Sucesso!");
 		}else {
-			System.out.println("Saque n„o Realizado!");
+			System.out.println("Saque n√£o Realizado!");
 		}
 		
-		System.out.println("Saldo da conta È: "+contaA.saldo+" Reais");
+		System.out.println("Saldo da conta √©: "+contaA.saldo+" Reais");
 		
 		contaA.Depositar(50);
-		System.out.println("Saldo da conta È: "+contaA.saldo+" Reais");
+		System.out.println("Saldo da conta √©: "+contaA.saldo+" Reais");
 
 	}
 

@@ -12,7 +12,7 @@ public class teste {
 		System.out.println("Saldo Final: "+ ContaTitular.getSaldo());
 		
 		Funcionario func = new Funcionario(200);
-		func.setNome("Jo„o");
+		func.setNome("Jo√£o");
 		System.out.println("Funcionario: "+func.getNome());
 		System.out.println("Salario: "+func.getSalario()); 
 	}

@@ -25,7 +25,7 @@ public class meuProjetoLpoo {
 		System.out.println(contaC.limite );
 		System.out.println("Saldo conta C: "+ contaC.saldo);
 		
-		//Testando o construtor padr„o
+		//Testando o construtor padr√£o
 		Conta contaD = new Conta();
 	}
 
